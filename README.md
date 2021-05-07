@@ -2,9 +2,7 @@
 home: true
 heroText: xigua web
 tagline: A xiao xigua web.
-heroImage: /hero.png
 heroImageStyle: {
-  maxWidth: '600px',
   width: '100%',
   display: block,
   margin: '9rem auto 2rem',
