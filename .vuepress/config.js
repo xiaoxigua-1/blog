@@ -2,7 +2,7 @@ module.exports = {
   "title": "xigua web",
   "description": "xiao xigua web",
   "dest": "public",
-  "base": "/public",
+  "base": "/public/",
   "head": [
     [
       "link",
