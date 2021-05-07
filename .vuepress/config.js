@@ -8,7 +8,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "/favicon.ico"
+        "href": "https://cdn.discordapp.com/avatars/458988300418416640/32b31c8b5dd7b3418b4bd9f2f2f11594.png?size=4096"
       }
     ],
     [
