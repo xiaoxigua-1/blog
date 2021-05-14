@@ -8,7 +8,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "https://cdn.discordapp.com/avatars/458988300418416640/32b31c8b5dd7b3418b4bd9f2f2f11594.png?size=4096"
+        "href": "https://cdn.discordapp.com/avatars/458988300418416640/31d2892e691d2c983dc6851d8a94472d.png?size=4096"
       }
     ],
     [
@@ -36,7 +36,7 @@ module.exports = {
       "meta",
       {
         "property": "og:image",
-        "content": "https://cdn.discordapp.com/avatars/458988300418416640/32b31c8b5dd7b3418b4bd9f2f2f11594.png?size=4096"
+        "content": "https://cdn.discordapp.com/avatars/458988300418416640/31d2892e691d2c983dc6851d8a94472d.png?size=4096"
       }
     ],
     [
@@ -100,16 +100,16 @@ module.exports = {
       {
         "title": "Xiao xigua web",
         "desc": "My web GitHub repo URL",
-        "avatar": "https://cdn.discordapp.com/avatars/458988300418416640/32b31c8b5dd7b3418b4bd9f2f2f11594.png?size=4096",
+        "avatar": "https://cdn.discordapp.com/avatars/458988300418416640/31d2892e691d2c983dc6851d8a94472d.png?size=4096",
         "link": "https://github.com/xiaoxigua-1/xiaoxigua-1.github.io"
       }
     ],
-    "logo": "https://cdn.discordapp.com/avatars/458988300418416640/32b31c8b5dd7b3418b4bd9f2f2f11594.png?size=4096",
+    "logo": "https://cdn.discordapp.com/avatars/458988300418416640/31d2892e691d2c983dc6851d8a94472d.png?size=4096",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "xiao xigua",
-    "authorAvatar": "https://cdn.discordapp.com/avatars/458988300418416640/32b31c8b5dd7b3418b4bd9f2f2f11594.png?size=4096",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/458988300418416640/31d2892e691d2c983dc6851d8a94472d.png?size=4096",
     "record": "xxxx",
     "startYear": "2021"
   },
