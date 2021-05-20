@@ -29,8 +29,7 @@ jobs:
     - run: npm run build
     - name: Commit files
       run: |
-        git init
-        cd ./build
+        cd .\\build
         git config --local user.email $USER_EMAIL
         git config --local user.name $USER_NAME
         git status
