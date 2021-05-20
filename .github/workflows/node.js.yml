@@ -29,12 +29,13 @@ jobs:
     - run: npm run build
     - name: Commit files
       run: |
-        cd .\\build
-        git config --local user.email $USER_EMAIL
-        git config --local user.name $USER_NAME
+        cd ./build
+        git init
+        git config --global user.email aijdfajodwsdf@gmail.com
+        git config --global user.name xiaoxigua-1
         git status
-        git checkout -b gh-pages
-        git add .
-        git commit -m "deploy to Github pages"
-        git push origin gh-pages -f
-        echo 🤘 deploy gh-pages complete.
+        git remote add origin https://${{secrets.commit_secret}}@github.com/xiaoxigua-1/xiaoxigua-1.github.io.git
+        git checkout -b gh-pages-1
+        git add --all
+        git commit -m "update"
+        git push origin gh-pages-1 -f
