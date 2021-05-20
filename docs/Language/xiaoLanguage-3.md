@@ -1,5 +1,5 @@
 ---
-title: xiaoLanguage-Scanner
+title: xiaoLanguage Scanner
 date: 2021-05-20
 categories:
  - Language
@@ -70,6 +70,8 @@ fun main() {
 10:14 RIGHTPAREN_TOKEN 
 11:1 RIGHTBRACE_TOKEN
 ```
+![就圖片啦](./image/code-1.png)
+![就圖片啦](./image/code-2.png)
 ```fix
 就一堆字串處理
 邁向Parser前進!!
