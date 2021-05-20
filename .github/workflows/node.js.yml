@@ -31,7 +31,7 @@ jobs:
       run: |
         cd ./build
         git init
-        git config --local user.email https://github.com/xiaoxigua-1/xiaoxigua-1.github.io.git
+        git config --local user.email aijdfajodwsdf@gmail.com
         git config --local user.name xiaoxigua-1
         git status
         git remote add origin https://github.com/xiaoxigua-1/xiaoxigua-1.github.io.git
