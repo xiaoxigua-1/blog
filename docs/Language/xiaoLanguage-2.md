@@ -7,7 +7,6 @@ tags:
  - xiaoLanguage
 ---
 
-# XiaoLanguage 註解
 - 當然是常見的//註解啦
 - 多行註解也採用/*  */來當多行註解
 

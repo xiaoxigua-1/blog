@@ -7,7 +7,6 @@ tags:
  - xiaoLanguage
 ---
 
-# XiaoLanguage Error
 
 ## Code
 ```

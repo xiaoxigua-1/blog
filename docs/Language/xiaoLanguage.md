@@ -7,7 +7,6 @@ tags:
  - xiaoLanguage
 ---
 
-# XiaoLanguage
 - 大略規劃長這樣
 ## Code
 ```
