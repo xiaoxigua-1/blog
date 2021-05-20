@@ -9,3 +9,4 @@ heroImageStyle: {
   background: '#fff',
   borderRadius: '1rem',
 }
+---
