@@ -1,13 +1,11 @@
 {
   "name": "xigua-web",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "xiaoxigua-1",
   "homepage": "https://github.com/xiaoxigua-1/",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
-    "build": "vuepress build .",
-    "predeploy": "npm run build",
-    "deploy": "gulp deploy"
+    "build": "vuepress build ."
   },
   "devDependencies": {
     "vuepress": "1.8.2",
