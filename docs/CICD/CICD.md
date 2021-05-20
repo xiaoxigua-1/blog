@@ -2,9 +2,9 @@
 title: CICD
 date: 2021-05-20
 categories:
- - 廢文
-tags:
  - CICD
+tags:
+ - 廢文
 ---
 
 第一次使用GitHub Actions
