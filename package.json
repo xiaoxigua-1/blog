@@ -2,19 +2,22 @@
   "name": "xigua-web",
   "version": "1.0.0",
   "author": "reco_luan",
-  "homepage": "https://xiaoxigua-1.github.io/xiaoxigua-1.github.io",
+  "homepage": "https://github.com/xiaoxigua-1/",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build .",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gulp deploy"
   },
   "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-pug": "^4.0.1",
+    "run-sequence": "^2.2.1",
     "vuepress": "1.8.2",
     "vuepress-theme-reco": "1.6.6"
   },
   "description": "xiao xigua web",
-  "dependencies": {
-    "gh-pages": "^3.1.0"
-  }
+  "dependencies": {}
 }
