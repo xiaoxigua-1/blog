@@ -1,5 +1,5 @@
 ---
-title: xiaoLanguage-註解
+title: CICD
 date: 2021-05-20
 categories:
  - 廢文
