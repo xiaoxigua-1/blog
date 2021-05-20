@@ -9,7 +9,7 @@ tags:
 
 # XiaoLanguage Error
 
-### Code
+## Code
 ```
 fun main() {
     var 哈哈 = 1
@@ -30,13 +30,13 @@ fun main() {
     print("w")
 }
 ```
-### Output
+## Output
 
 ....... <br />
 <span style="color:red">XiaoLanguage.Error.SyntaxError: 11:18 "10a" 這沙誵?</span>
 
 ![就圖片而已啦](./image/code-3.png)
 
-```fix
-邁向Parser前進!!
-```
+## 心得
+我絕對不會說這個錯誤提示真的很難看，
+算了以後再慢慢改，真正的邁向Parser前進!!

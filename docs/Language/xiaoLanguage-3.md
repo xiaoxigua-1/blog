@@ -9,7 +9,7 @@ tags:
 
 # XiaoLanguage Scanner
 
-### Code
+## Code
 ```
 fun main() {
     var 哈哈 = 1
@@ -72,7 +72,7 @@ fun main() {
 ```
 ![就圖片啦](./image/code-1.png)
 ![就圖片啦](./image/code-2.png)
-```fix
+
+## 心得
 就一堆字串處理
 邁向Parser前進!!
-```
