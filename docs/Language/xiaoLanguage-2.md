@@ -10,7 +10,7 @@ tags:
 - 當然是常見的//註解啦
 - 多行註解也採用/*  */來當多行註解
 
-## COde
+## Code
 ```
 fun main() {
     var 哈哈 = 1
@@ -25,3 +25,5 @@ fun main() {
     print("w")
 }
 ```
+
+### [GitHub](https://github.com/xiaoxigua-1/XiaoLanguage)
