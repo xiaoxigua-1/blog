@@ -6,5 +6,6 @@ categories:
 tags:
  - 廢文
 ---
-
+:::tip 心得
 第一次使用GitHub Actions搞了很久才摸索出來，這樣我在這裡寫廢文就不用那麼麻煩了耶 ~~
+:::

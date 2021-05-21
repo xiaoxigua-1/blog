@@ -8,7 +8,7 @@ tags:
 ---
 
 - 大略規劃長這樣
-## Code
+::: details Code
 ```
 fun main() {
     var a = 1
@@ -22,5 +22,7 @@ fun main() {
     print("w")
 }
 ```
-
-### [GitHub](https://github.com/xiaoxigua-1/XiaoLanguage)
+:::
+::: right
+[GitHub](https://github.com/xiaoxigua-1/XiaoLanguage)
+:::

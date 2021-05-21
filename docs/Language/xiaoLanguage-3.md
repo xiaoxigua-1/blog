@@ -8,7 +8,7 @@ tags:
 ---
 
 
-## Code
+::: details Code
 ```
 fun main() {
     var 哈哈 = 1
@@ -23,9 +23,9 @@ fun main() {
     print("w")
 }
 ```
-
-## 解析後Tokens
-```log
+:::
+::: details 解析後Tokens
+```kt
 1:1 FUNCTION_TOKEN 
 1:5 IDENTIFIER_TOKEN main
 1:9 LEFTPAREN_TOKEN 
@@ -71,9 +71,13 @@ fun main() {
 ```
 ![就圖片啦](./image/code-1.png)
 ![就圖片啦](./image/code-2.png)
+:::
 
-## 心得
+
+:::tip 心得
 就一堆字串處理
 邁向Parser前進!!
-
-### [GitHub](https://github.com/xiaoxigua-1/XiaoLanguage)
+:::
+::: right
+[GitHub](https://github.com/xiaoxigua-1/XiaoLanguage)
+:::

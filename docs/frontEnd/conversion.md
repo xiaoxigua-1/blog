@@ -11,12 +11,12 @@ tags:
 - 把三維座標投射到平面上用p5.js實現
 - 繪製出一個長方體外匡
 
-## 心得 ?
-```
-做完後不錯玩讓我想繼續學下去
-```
+:::tip 心得
 
-## p5.js code
+做完後不錯玩讓我想繼續學下去
+
+:::
+::: details p5.js code
 
 ```js
 let camera = [700, 1000, 0];
@@ -74,3 +74,4 @@ function threeDimensionsToTwoDimensions(x, y, z) {
     
 }
 ```
+:::

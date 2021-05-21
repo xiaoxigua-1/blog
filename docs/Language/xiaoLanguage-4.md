@@ -8,8 +8,8 @@ tags:
 ---
 
 
-## Code
-```
+::: details Code
+``` {16}
 fun main() {
     var 哈哈 = 1
     
@@ -29,15 +29,20 @@ fun main() {
     print("w")
 }
 ```
-## Output
+:::
 
-....... <br />
+:::danger Output
+....... <br>
 <span style="color:red">XiaoLanguage.Error.SyntaxError: 11:18 "10a" 這沙誵?</span>
-
 ![就圖片而已啦](./image/code-3.png)
+:::
 
-## 心得
+
+
+:::tip 心得
 我絕對不會說這個錯誤提示真的很難看，
 算了以後再慢慢改，真正的邁向Parser前進!!
-
-### [GitHub](https://github.com/xiaoxigua-1/XiaoLanguage)
+:::
+::: right
+[GitHub](https://github.com/xiaoxigua-1/XiaoLanguage)
+:::

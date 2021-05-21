@@ -10,13 +10,11 @@ tags:
 # 三維座標旋轉
 - 用到矩陣
 
-# 心得?
-```
-因為高一沒學到矩陣所以我特別去學了一點點概念
-還不錯玩
-```
+:::tip 心得?
+因為高一沒學到矩陣所以我特別去學了一點點概念還不錯玩
+:::
 
-## p5.js code
+::: details p5.js code
 ```js
 let camera = [-200, -200, 0];
 
@@ -96,3 +94,4 @@ function threeDimensionsToTwoDimensions(x, y, z) {
     
 }
 ```
+:::
