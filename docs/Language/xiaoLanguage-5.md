@@ -11,12 +11,12 @@ tags:
 ::: details Code
 ``` {16}
 fun main() {
-    var 哈哈 = 1
+    var 哈哈 = 1;
     
     if (a == 1) {
-        print("a")
+        print("a");
     } elif (a != 2) {
-        print("cc")
+        print("cc");
     }
     // adsdsdsdsdsdsd
     /*****
@@ -25,8 +25,8 @@ fun main() {
     www
     */
     /* Hi */
-    var c = 10*a*10a
-    print("w")
+    var c = 10*a*10a;
+    print("w");
 }
 ```
 :::
