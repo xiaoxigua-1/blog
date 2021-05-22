@@ -43,6 +43,9 @@ Line: 16 <br>
 <code style="margin-left: 120px;color:red;background-color:rgba(0,0,0,0);">^</code><br>
 16:18 "10a" 這沙誵?<br>
 </code>
+
+![就是圖片別懷疑](./image/code-5.png)
+![就是圖片別懷疑](./image/code-6.png)
 :::
 
 :::tip 心得
