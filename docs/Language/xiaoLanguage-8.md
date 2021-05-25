@@ -8,6 +8,7 @@ tags:
 ---
 
 :::details Code
+```
 fun main() {
     // var 哈哈 = 1;
     
@@ -27,6 +28,7 @@ fun main() {
     var h = false;
     print("w \"\n", "  ", a, ((((32+1)*10)+10)-10)/10);
 }
+```
 :::
 
 :::tip Output
