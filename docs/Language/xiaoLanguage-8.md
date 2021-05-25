@@ -51,6 +51,7 @@ RunFunNode: print [parser.node.StrNode@4b9e13df, parser.node.StrNode@2b98378d, G
 運算子還沒有建樹只是先獨立出來一個Node光這樣我就寫了很久思考了很久跟Debug很久 QQ <br>
 然後順便幫錯誤提示訊息的上了點顏色讓他不是單調的紅色到底 <br>
 ![就是圖片別懷疑](./image/code-13.png) <br>
+![就是圖片別懷疑](./image/code-14.png) <br>
 看來我還太菜了，好那就繼續往下分析摟!!
 
 :::
