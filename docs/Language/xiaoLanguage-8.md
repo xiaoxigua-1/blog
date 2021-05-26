@@ -57,5 +57,4 @@ RunFunNode: print [parser.node.StrNode@4b9e13df, parser.node.StrNode@2b98378d, G
 ![就是圖片別懷疑](./image/code-13.png) <br>
 ![就是圖片別懷疑](./image/code-14.png) <br>
 看來我還太菜了，好那就繼續往下分析摟!!
-
 :::
