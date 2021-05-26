@@ -11,6 +11,7 @@ heroImageStyle: {
   borderRadius: '1rem',
 }
 bgImageStyle: {
-  height: '700px'
+  max-height: '700px',
+  width: '100%'
 }
 ---
