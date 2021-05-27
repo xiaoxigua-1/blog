@@ -1,6 +1,6 @@
 ---
 title: xiaoLanguage Built-in Function
-date: '2021-05-26 21:36:00'
+date: '2021-05-27 17:34:00'
 categories:
  - Language
 tags:
