@@ -64,12 +64,12 @@ GGGGG
                 /    \
                /      \
               /        \
-            else    elif list
+            else     if list
              /\        /|\
             /  \      / | \
            /    \    ..... \
           /      \          \
-    judgment    nodes      elif
+    judgment    nodes       if
                             /\ 
                            /  \
                      judgment  nodes
