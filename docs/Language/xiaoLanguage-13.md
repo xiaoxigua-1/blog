@@ -8,6 +8,7 @@ tags:
 ---
 
 :::details Code
+```
 import math
 var c = plus(100, 200);
 print(c);
