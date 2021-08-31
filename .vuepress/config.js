@@ -2,7 +2,7 @@ module.exports = {
   "title": "xigua web",
   "description": "xiao xigua web",
   "dest": "build",
-  "base": "/",
+  "base": "/blog/",
   "head": [
     [
       "link",
