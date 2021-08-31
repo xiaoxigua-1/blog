@@ -1,5 +1,5 @@
 {
-  "name": "xigua-web",
+  "name": "xigua-blog",
   "version": "1.0.0",
   "author": "xiaoxigua-1",
   "homepage": "https://github.com/xiaoxigua-1/",
@@ -11,6 +11,6 @@
     "vuepress": "1.8.2",
     "vuepress-theme-reco": "1.6.6"
   },
-  "description": "xiao xigua web",
+  "description": "xiao xigua blog",
   "dependencies": {}
 }
