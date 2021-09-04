@@ -7,6 +7,7 @@ tags:
  - website
  - react
  - fullpage.js
+ - typescript
 ---
 # 這個網站出現的理由
 ---
