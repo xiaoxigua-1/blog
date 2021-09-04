@@ -26,7 +26,8 @@ tags:
 
 # 後續
 ---
-大部分的人都很喜歡POPYOUNG的部分要求製作2.0版本獨立出來(#~~做出來是做出來了但是Young說不能公開~~
+大部分的人都很喜歡POPYOUNG的部分要求製作2.0版本獨立出來(#~~做出來是做出來了但是Young說不能公開~~\
+~~所以我採有想玩的在跟我拿~~
 ::: right
 [GitHub](https://github.com/XYZ-studio/Young-teach-me)
 :::
