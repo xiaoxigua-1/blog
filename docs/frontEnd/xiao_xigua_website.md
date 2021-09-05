@@ -33,7 +33,7 @@ tags:
 ![](https://cdn.discordapp.com/attachments/808251620730339388/883767135678103603/image0.png)
 :::
 詳細情況可看commit(X\
-經過此情況該買台Mac了Windows不能裝Safair :sad:
+經過此情況該買台Mac了Windows不能裝Safair QAQ
 
 
 # 使用GitHub API
