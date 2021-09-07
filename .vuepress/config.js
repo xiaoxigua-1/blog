@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "xigua web",
-  "description": "xiao xigua web",
+  "title": "Xigua Blog",
+  "description": "xiao xigua Blog",
   "dest": "build",
   "base": "/blog/",
   "head": [
@@ -22,7 +22,7 @@ module.exports = {
       "meta",
       {
         "property": "og:title",
-        "content": "xigua web"
+        "content": "xigua Blog"
       }
     ],
     [
@@ -43,14 +43,14 @@ module.exports = {
       "meta",
       {
         "property": "og:description",
-        "content": "xiao xigua web"
+        "content": "xiao xigua Blog"
       }
     ],
     [
       "meta",
       {
         "property": "og:site_name",
-        "content": "xigua web"
+        "content": "xigua Blog"
       }
     ]
   ],
@@ -102,7 +102,7 @@ module.exports = {
         "title": "Xiao xigua web",
         "desc": "My web GitHub repo URL",
         "avatar": "https://cdn.discordapp.com/avatars/458988300418416640/05549a0ef3b6c2d804214f8c8e2c40bd.webp?size=4096",
-        "link": "https://github.com/xiaoxigua-1/xiaoxigua-1.github.io"
+        "link": "https://xiaoxigua-1.github.io"
       }
     ],
     "logo": "https://cdn.discordapp.com/avatars/458988300418416640/05549a0ef3b6c2d804214f8c8e2c40bd.webp?size=4096",
@@ -111,7 +111,6 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "xiao xigua",
     "authorAvatar": "https://cdn.discordapp.com/avatars/458988300418416640/05549a0ef3b6c2d804214f8c8e2c40bd.webp?size=4096",
-    "record": "xxxx",
     "startYear": "2021"
   },
   "markdown": {
