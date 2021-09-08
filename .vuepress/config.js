@@ -75,15 +75,14 @@ module.exports = {
         "icon": "reco-date"
       },
       {
+        "text": "RSS",
+        "link": "/rss.xml",
+        "icon": "fa-rss-square"
+      },
+      {
         "text": "GitHub",
-        "icon": "reco-message",
-        "items": [
-          {
-            "text": "GitHub",
-            "link": "https://github.com/xiaoxigua-1/xiaoxigua-1.github.io",
-            "icon": "reco-github"
-          }
-        ]
+        "icon": "reco-github",
+        "link": "https://github.com/xiaoxigua-1/xiaoxigua-1.github.io"
       }
     ],
     "type": "blog",
