@@ -1,6 +1,16 @@
 module.exports = {
   "plugins": [
-    "@vuepress-reco/vuepress-plugin-rss"
+    "@vuepress-reco/vuepress-plugin-rss",
+    "cursor-effects",
+    [
+      "dynamic-title", {
+        "showIcon": '/favicon.ico',
+        "showText": '鬼吧都這樣不看我',
+        "hideIcon": '/failure.ico',
+        "hideText": 'yaaaa又繼續看我ㄌ',
+        "recoverTime": 2000,
+      },
+    ]
   ],
   "title": "Xigua Blog",
   "description": "xiao xigua Blog",
@@ -61,11 +71,11 @@ module.exports = {
   "themeConfig": {
     "noFoundPageByTencent": false,
     "vssueConfig": {
-      "platform": 'github',
-      "owner": 'xiaoxigua-1',
-      "repo": 'xiaoxigua-1.github.io',
-      "clientId": '3ac082a858602f7869b1',
-      "clientSecret": '40d372ce649c2dab25e290413c07efd7d7b69652',
+      "platform": "github",
+      "owner": "xiaoxigua-1",
+      "repo": "xiaoxigua-1.github.io",
+      "clientId": "3ac082a858602f7869b1",
+      "clientSecret": "40d372ce649c2dab25e290413c07efd7d7b69652",
     },
     "nav": [
       {
