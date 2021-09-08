@@ -76,7 +76,7 @@ module.exports = {
       },
       {
         "text": "RSS",
-        "link": "/rss.xml",
+        "link": "/rss.xml/",
         "icon": "fa-rss-square"
       },
       {
