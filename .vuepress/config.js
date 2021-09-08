@@ -10,7 +10,8 @@ module.exports = {
         "hideText": 'yaaaa又繼續看我ㄌ',
         "recoverTime": 2000,
       },
-    ]
+    ],
+    "go-top"
   ],
   "title": "Xigua Blog",
   "description": "xiao xigua Blog",

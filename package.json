@@ -11,6 +11,7 @@
     "vuepress": "1.8.2",
     "vuepress-plugin-cursor-effects": "^1.0.2",
     "vuepress-plugin-dynamic-title": "^1.0.0",
+    "vuepress-plugin-go-top": "^1.0.4",
     "vuepress-theme-reco": "1.6.6"
   },
   "description": "xiao xigua blog",
