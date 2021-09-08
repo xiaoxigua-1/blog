@@ -74,7 +74,7 @@ module.exports = {
     "vssueConfig": {
       "platform": "github",
       "owner": "xiaoxigua-1",
-      "repo": "xiaoxigua-1.github.io",
+      "repo": "blog",
       "clientId": "3ac082a858602f7869b1",
       "clientSecret": "40d372ce649c2dab25e290413c07efd7d7b69652",
     },
