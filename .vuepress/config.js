@@ -5,9 +5,9 @@ module.exports = {
     [
       "dynamic-title", {
         "showIcon": 'https://cdn.discordapp.com/avatars/458988300418416640/05549a0ef3b6c2d804214f8c8e2c40bd.webp?size=4096',
-        "showText": '鬼吧都這樣不看我',
+        "showText": 'yaaaa又繼續看我ㄌ',
         "hideIcon": 'https://cdn.discordapp.com/avatars/458988300418416640/05549a0ef3b6c2d804214f8c8e2c40bd.webp?size=4096',
-        "hideText": 'yaaaa又繼續看我ㄌ',
+        "hideText": '鬼吧都這樣不看我',
         "recoverTime": 2000,
       },
     ],
