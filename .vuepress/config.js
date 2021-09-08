@@ -1,4 +1,7 @@
 module.exports = {
+  "plugins": [
+    "@vuepress-reco/vuepress-plugin-rss"
+  ],
   "title": "Xigua Blog",
   "description": "xiao xigua Blog",
   "dest": "build",
@@ -57,6 +60,9 @@ module.exports = {
   "theme": "reco",
   "themeConfig": {
     "noFoundPageByTencent": false,
+    "sitemap": {
+      "hostname": "https://billyyyyy3320.com/"
+    },
     "nav": [
       {
         "text": "Home",
