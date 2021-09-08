@@ -76,7 +76,7 @@ module.exports = {
       },
       {
         "text": "RSS",
-        "link": "/rss.xml/",
+        "link": "https://xiaoxigua-1.github.io/blog/rss.xml",
         "icon": "fa-rss-square"
       },
       {
