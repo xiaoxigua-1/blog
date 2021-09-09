@@ -1,6 +1,11 @@
 module.exports = {
   "plugins": [
-    "@vuepress-reco/vuepress-plugin-rss",
+    [
+      "@vuepress-reco/vuepress-plugin-rss",
+      {
+        "site_url": "https://xiaoxigua-1.github.io/blog"
+      }
+    ],
     "cursor-effects",
     [
       "dynamic-title", {
