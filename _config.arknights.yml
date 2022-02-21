@@ -1,0 +1,75 @@
+# html lang
+language: en
+
+# canvas 动态背景
+canvas_dust: true
+
+# <body> 背景图片链接
+background_image: https://ak.hypergryph.com/assets/index/images/ak/pc/bk.jpg # /img/bg.jpg
+
+# 侧边栏
+aside:
+  in_left: false # 侧边栏在左 true / false
+  logo: /avatar.webp # 图片链接，建议 1:1 比例
+  dr: https://github.com/xiaoxigua-1 # 侧边栏 Dr. 链接
+  copyright: null
+
+# post 文章页面配置；true / false
+post:
+  date: true # 是否显示发布日期
+  updated: true # 是否显示修改日期
+  source: false # 是否显示源文件路径
+  excerpt: true # 是否在文章中显示摘要内容（<!-- more--> 以上的内容）
+  reward: false # 文章末显示打赏二维码
+# 文章内目录
+toc:
+  list_number: true # true / false ；是否显示编号
+  max_depth: 6 # 最大目录深度
+  min_depth: 1 # 最小目录深度
+# 归档页；true / false
+archives:
+  categories_count: true # 是否显示分类总数
+  tags_count: true # 是否显示标签总数
+
+# Valine 无后端评论系统
+valine:
+  enable: false
+  app_id: # <APP ID>
+  app_key: # <APP KEY>
+  server_url: # <APP DOMAIN>（LeanCloud 国际版）
+
+gitalk:
+  enable: true
+  client_id: 3ac082a858602f7869b1
+  client_secret: 341c7861fcd793afb7c0be51dff5fefec113a21e
+  repo: blog
+  owner: xiaoxigua
+  admin: [xiaoxigua-1] # GitHub repository owner and collaborators (Users who having write access to this repository)
+                # Example: [adminA,adminB]
+  id: # The unique id of the page
+      # Example: location.pathname
+
+# 图表支持
+mermaid:
+  enable: true
+  version: '8.13.5'
+
+# pjax 支持
+pjax:
+  enable: false
+  version: '0.2.8'
+
+# main menu navigation
+menu:
+  Home: ''
+#  About: about/
+#  Contact: contact/
+  Archives: archives/
+
+# stylesheets loaded in the <head>
+stylesheets:
+- //unpkg.com/@highlightjs/cdn-assets@11.4.0/styles/atom-one-dark-reasonable.min.css
+
+# scripts loaded in the end of the body
+scripts:
+- //unpkg.com/@highlightjs/cdn-assets@11.4.0/highlight.min.js

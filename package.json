@@ -1,21 +1,29 @@
 {
-  "name": "xigua-blog",
-  "version": "1.0.0",
-  "author": "xiaoxigua-1",
-  "homepage": "https://github.com/xiaoxigua-1/",
+  "name": "hexo-site",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "dev": "vuepress dev . --open --host \"localhost\"",
-    "build": "vuepress build ."
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server"
   },
-  "devDependencies": {
-    "vuepress": "1.8.2",
-    "vuepress-plugin-cursor-effects": "^1.0.2",
-    "vuepress-plugin-dynamic-title": "^1.0.0",
-    "vuepress-plugin-go-top": "^1.0.4",
-    "vuepress-theme-reco": "1.6.6"
+  "hexo": {
+    "version": "6.0.0"
   },
-  "description": "xiao xigua blog",
   "dependencies": {
-    "@vuepress-reco/vuepress-plugin-rss": "^1.0.2"
+    "hexo": "^6.0.0",
+    "hexo-browsersync": "^0.3.0",
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-index": "^2.0.0",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-renderer-dartsass": "^0.1.2",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-marked": "^5.0.0",
+    "hexo-renderer-pug": "^3.0.0",
+    "hexo-renderer-stylus": "^2.0.0",
+    "hexo-server": "^3.0.0",
+    "hexo-theme-landscape": "^0.0.3"
   }
 }
