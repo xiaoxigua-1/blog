@@ -24,7 +24,7 @@ jobs:
       - name: pull
         run: |
           git pull --recurse-submodules
-          git submodule update --remote --recursive
+          git submodule update --init --recursive
       - name: Install Dependencies
         run: npm install
       - name: Build
