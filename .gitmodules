@@ -1,0 +1,3 @@
+[submodule "arknights"]
+	path = themes/arknights
+	url = https://github.com/Yue-plus/hexo-theme-arknights
