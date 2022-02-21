@@ -21,6 +21,8 @@ jobs:
           key: ${{ runner.OS }}-npm-cache
           restore-keys: |
             ${{ runner.OS }}-npm-cache
+      -name: clone
+        run: git clone --recurse-submodules
       - name: Install Dependencies
         run: npm install
       - name: Build
