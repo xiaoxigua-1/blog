@@ -51,7 +51,7 @@ dd  ff
 ggggg
 GGGGG
 ```
-![就是圖片別懷疑](./image/code-23.png)
+![就是圖片別懷疑](/image/code-23.png)
 
 ## 心得
 這次文章拖得比較久齁原因大概就是跑去玩遊戲xiaoLanguage進度拖到，玩了幾天後我又馬上跳回來繼續趕工ㄌ呵呵，那最近把if elif else等等的東西搞出來了，順便幫加上String的運算式
@@ -74,4 +74,4 @@ GGGGG
                      judgment  nodes
 
 ```
-大概長這樣...的部分是那裡分支都長那樣最後完成並成功時我非常興奮  <img src="./image/CR.png" width="20px">
+大概長這樣...的部分是那裡分支都長那樣最後完成並成功時我非常興奮  <img src="/image/CR.png" width="20px">

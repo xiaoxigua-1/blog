@@ -40,7 +40,7 @@ Line: 16 <br>
 16:18 "10a" 這沙誵?<br>
 </code>
 
-![就圖片而已啦](./image/code-4.png)
+![就圖片而已啦](/image/code-4.png)
 
 
 ## 心得

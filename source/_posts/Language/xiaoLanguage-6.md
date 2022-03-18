@@ -43,8 +43,8 @@ Line: 16 <br>
 10:20 這不是數字吧哥<br>
 </code>
 
-![就是圖片別懷疑](./image/code-5.png)
-![就是圖片別懷疑](./image/code-6.png)
+![就是圖片別懷疑](/image/code-5.png)
+![就是圖片別懷疑](/image/code-6.png)
 
 ## 心得
 多了點提示有一個箭頭應該比較好知道哪裡吧?應該

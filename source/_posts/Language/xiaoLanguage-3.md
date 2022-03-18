@@ -67,8 +67,8 @@ fun main() {
 10:14 RIGHTPAREN_TOKEN 
 11:1 RIGHTBRACE_TOKEN
 ```
-![就圖片啦](./image/code-1.png)
-![就圖片啦](./image/code-2.png)
+![就圖片啦](/image/code-1.png)
+![就圖片啦](/image/code-2.png)
 
 
 ## 心得

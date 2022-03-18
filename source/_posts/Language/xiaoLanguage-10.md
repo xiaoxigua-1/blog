@@ -30,8 +30,8 @@ print(2," ",plus(1,plus(1,2,5),7));
 2 16
 run time: 200
 ```
-![就是圖片別懷疑](./image/code-18.png)
-![就是圖片別懷疑](./image/code-16.png)
+![就是圖片別懷疑](/image/code-18.png)
+![就是圖片別懷疑](/image/code-16.png)
 
 ## 心得
 新增了Built-in Function <br>

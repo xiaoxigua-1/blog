@@ -33,9 +33,9 @@ print(c);
 300
 800
 ```
-![就是圖片別懷疑](./image/code-19.png)
-![就是圖片別懷疑](./image/code-20.png)
-![就是圖片別懷疑](./image/code-21.png)
+![就是圖片別懷疑](/image/code-19.png)
+![就是圖片別懷疑](/image/code-20.png)
+![就是圖片別懷疑](/image/code-21.png)
 
 ## 心得
 新增了import這樣內建函式就不會太多ㄌ用到時在import那包近來 <br>

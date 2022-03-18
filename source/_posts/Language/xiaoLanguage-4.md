@@ -33,7 +33,7 @@ fun main() {
 ## Output
 ....... <br>
 <span style="color:red">XiaoLanguage.Error.SyntaxError: 11:18 "10a" 這沙誵?</span>
-![就圖片而已啦](./image/code-3.png)
+![就圖片而已啦](/image/code-3.png)
 
 
 

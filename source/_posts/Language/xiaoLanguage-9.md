@@ -24,7 +24,7 @@ ww12
 10
 20
 ```
-![就是圖片別懷疑](./image/code-15.png)
+![就是圖片別懷疑](/image/code-15.png)
 
 ## 心得
 先偷寫Executor目前只能跑設置變數與print跟宣告變數而已QQ <br>
