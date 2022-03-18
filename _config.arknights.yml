@@ -43,7 +43,7 @@ gitalk:
   client_id: 3ac082a858602f7869b1
   client_secret: 341c7861fcd793afb7c0be51dff5fefec113a21e
   repo: blog
-  owner: xiaoxigua
+  owner: xiaoxigua-1
   admin: [xiaoxigua-1] # GitHub repository owner and collaborators (Users who having write access to this repository)
                 # Example: [adminA,adminB]
   id: # The unique id of the page
